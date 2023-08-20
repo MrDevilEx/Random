@@ -1,9 +1,13 @@
 # Random
 Follow me for more gift 🖤🥀🌺
 COMMAND 
+
 rm -rf Random
+
 git clone https://github.com/MrDevilEx/Random.git
+
 cd Random
+
 python Free.py
 
 
